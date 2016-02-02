@@ -10,7 +10,7 @@
             }
 
 .blog-masthead {
-  background-color: darkmagenta ;
+  background-color: darkred ;
   -webkit-box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
           box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
 }
@@ -139,5 +139,3 @@ input, textarea {
     color:#3a3a3a;
     border-radius:8px;
 }
-Status API Training Shop Blog About Pricing
-© 2016 GitHub, Inc. Terms Privacy Security Contact Help
